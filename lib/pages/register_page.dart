@@ -69,7 +69,6 @@ class __FormState extends State<_Form> {
             isPassword: true,
             textController: passCtrl,
           ),
-          //TODO crear botton
           Botoncito(
             text: 'Registrarse',
             color: Colors.green,
